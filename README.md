@@ -1,6 +1,6 @@
 # Sobre Mim 👨‍💻
 
-💻 **Desenvolvedor e Programador** com paixão por tecnologia e inovação.  
+💻 **Desenvolvedor de sistemas** e **Programador**.  
 🎯 Especializado em **Python**, mas também domino **Pawn** para projetos específicos.  
 🌐 No desenvolvimento web, uso:  
 - **HTML** para estruturação.  
@@ -10,7 +10,7 @@
 ---
 
 ### ⚡ O que faço:
-- Desenvolvimento de **bots**, **macros**, **programas de utilidade pública e privada** e **sites**.  
+- Desenvolvimento de **back end para sites**, **bot discord**, **bot/macros**, **útilitários para ajuda mútua** e **jogos 2D**  
 - Criação de aplicações para **Windows** e **Linux**.  
 - Gerenciamento de **bancos de dados** com **MySQL** e **SQLite**.  
 
