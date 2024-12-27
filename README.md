@@ -1,16 +1,34 @@
-## Hi there 👋
+# Sobre Mim 👨‍💻
 
-<!--
-**KaiqueDW/KaiqueDW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor e Programador** com paixão por tecnologia e inovação.  
+🎯 Especializado em **Python**, mas também domino **Pawn** para projetos específicos.  
+🌐 No desenvolvimento web, uso:  
+- **HTML** para estruturação.  
+- **CSS** para estilização.  
+- **Flask** como framework para criar o site.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ O que faço:
+- Desenvolvimento de **bots**, **macros**, **programas de utilidade pública e privada** e **sites**.  
+- Criação de aplicações para **Windows** e **Linux**.  
+- Gerenciamento de **bancos de dados** com **MySQL** e **SQLite**.  
+
+---
+
+### 💡 Minha história:
+Minha jornada na programação começou com o desenvolvimento de mapas utilizando Lua para o Roblox. Esse início despertou meu interesse por criar jogos e sistemas completos, fora de plataformas específicas, o que me motivou a aprofundar meus conhecimentos na área.
+
+Ao longo do tempo, ampliei meu foco para desenvolver soluções práticas e funcionais, atendendo a diferentes necessidades. Hoje, meu objetivo é criar ferramentas, aplicações e sistemas que sejam úteis e acessíveis a todos.
+
+---
+
+### 🛠️ Ferramentas e Tecnologias:
+- **Linguagens:** Python, Pawn, HTML, CSS.  
+- **Frameworks:** Flask, Discord.py, Pygame.  
+- **Bancos de Dados:** MySQL, SQLite.  
+- **Plataformas:** Windows, Linux.  
+
+---  
+
+Se quiser conhecer mais sobre meu trabalho, sinta-se à vontade para explorar os repositórios! 🚀  
